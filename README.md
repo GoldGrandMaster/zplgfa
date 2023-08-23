@@ -77,11 +77,6 @@ func main() {
 
 ```
 
-## label server
-
-If you have dozens of label printers in use and need to fill and print label templates, this tool will help you:  
-
-[![SimonWaldherr/ups - GitHub](https://gh-card.dev/repos/SimonWaldherr/ups.svg?fullname)](https://github.com/SimonWaldherr/ups)
 
 ## Is it any good?
 
